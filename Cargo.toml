@@ -1,0 +1,8 @@
+[package]
+name = "data_structure"
+version = "0.1.0"
+authors = ["oMid <dehgkaniomid@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bst = { path = "libs/bst" }

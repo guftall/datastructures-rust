@@ -1,0 +1,11 @@
+[[package]]
+name = "bst"
+version = "0.1.0"
+
+[[package]]
+name = "data_structure"
+version = "0.1.0"
+dependencies = [
+ "bst 0.1.0",
+]
+
